@@ -10,10 +10,12 @@
     "test": "jest"
   },
   "dependencies": {
+    "electron": "^2.0.5",
+    "hoek": "^5.0.3",
     "ovrui": "~2.0.0",
     "react": "16.0.0",
     "react-native": "^0.48.4",
-    "react-timer-mixin": "^0.13.3",
+    "react-timer-mixin": "^0.13.4",
     "react-vr": "~2.0.0",
     "react-vr-web": "~2.0.0",
     "three": "^0.87.0"
