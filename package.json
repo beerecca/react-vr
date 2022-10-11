@@ -14,7 +14,7 @@
     "hoek": "^5.0.3",
     "ovrui": "~2.0.0",
     "react": "16.0.0",
-    "react-native": "^0.48.4",
+    "react-native": "^0.70.2",
     "react-timer-mixin": "^0.13.4",
     "react-vr": "~2.0.0",
     "react-vr-web": "~2.0.0",
